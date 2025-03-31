@@ -1,0 +1,18 @@
+Hi!, thanks for downloading E.V.E 01
+To install follow these steps:
+
+-In the file explorer go to:
+
+WIN:      C:\Program Files\Adobe\Adobe After Effects\Support Files\Scripts\ScriptUI Panels
+MAC:        /Library/Application Support/Adobe/Adobe After Effects/Support Files/Scripts/ScriptUI Panels
+
+-Paste the file E.V.E 01 vEnglish
+-Ready!
+
+If you want you can follow me on instagram, I would really appreciate it
+
+Instagram: https://www.instagram.com/alter.egon/
+
+If you have any questions about the Script you can write me!
+
+I hope that E.V.E helps you in your projects!
